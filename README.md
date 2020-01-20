@@ -1,5 +1,7 @@
 ## Sponsored Markdown Time Ladies
 
+Master Build Status: [![Build Status](https://travis-ci.org/BenThomasSutton/sem.svg?branch=master)](https://travis-ci.org/BenThomasSutton/sem)
+
 Trying to remember how this _magic_ works
 
 > "How do you wanna do this?"
