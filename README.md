@@ -6,7 +6,7 @@ Develop Build Status: [![Build Status](https://travis-ci.org/BenThomasSutton/sem
 
 License: [![LICENSE](https://img.shields.io/github/license/benthomassutton/sem.svg?style=flat-square)](https://github.com/benthomassutton/sem/blob/master/LICENSE)
 
-Releases: [![Releases](https://img.shields.io/github/release/benthomassutton/sem/all.svg?style=flat-square)](https://github.com/<github-username>/sem/releases)
+Releases: [![Releases](https://img.shields.io/github/release/benthomassutton/sem/all.svg?style=flat-square)](https://github.com/benthomassutton/sem/releases)
 
 Trying to remember how this _magic_ works
 
